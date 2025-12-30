@@ -68,7 +68,25 @@ The dataset (`expenses.csv`) contains the following columns:
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone or download the project
-2. Install dependencies:
+
+---
+
+## 📌 Key Learnings
+- Practical usage of Pandas `groupby`, `datetime`, and aggregation
+- Real-world expense data analysis
+- Basic data visualization techniques
+
+---
+
+## 🚀 Future Enhancements
+- Budget limit alerts
+- Year-wise analysis
+- Export reports to Excel
+- Interactive dashboard using Streamlit
+
+---
+
+## 📄 Resume Highlight
+> Analyzed personal expense data using Python and Pandas to derive monthly and category-wise insights, identifying spending trends and high-expense areas through data aggregation and visualization.
+
 
